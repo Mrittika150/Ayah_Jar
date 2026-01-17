@@ -1,0 +1,869 @@
+{
+  "sad": [
+    {
+      "id": 1,
+      "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "transliteration": "La yukallifu Allahu nafsan illa wus'aha",
+      "translation": "Allah does not burden a soul beyond that it can bear.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:286",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002286.mp3"
+    },
+    {
+      "id": 2,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "Fa inna ma'al 'usri yusra",
+      "translation": "For indeed, with hardship will be ease.",
+      "surah": "Ash-Sharh",
+      "ayah": "94:5",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094005.mp3"
+    },
+    {
+      "id": 3,
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "Inna ma'al 'usri yusra",
+      "translation": "Indeed, with hardship will be ease.",
+      "surah": "Ash-Sharh",
+      "ayah": "94:6",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094006.mp3"
+    },
+    {
+      "id": 4,
+      "arabic": "وَلَا تَهِنُوا۟ وَلَا تَحْزَنُوا۟ وَأَنتُمُ ٱلْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+      "transliteration": "Wa la tahinu wa la tahzanu wa antumu al-a'lawna in kuntum mu'mineen",
+      "translation": "So do not weaken and do not grieve, and you will be superior if you are true believers.",
+      "surah": "Ali Imran",
+      "ayah": "3:139",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003139.mp3"
+    },
+    {
+      "id": 5,
+      "arabic": "قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ",
+      "transliteration": "Qul ya 'ibadiya allatheena asrafu 'ala anfusihim la taqnatu min rahmati Allahi",
+      "translation": "Say, O My servants who have transgressed against themselves by sinning, do not despair of the mercy of Allah.",
+      "surah": "Az-Zumar",
+      "ayah": "39:53",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/039053.mp3"
+    },
+    {
+      "id": 6,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Ya ayyuha allatheena amanu ista'eenu bissabri wassalah inna Allaha ma'a assabireen",
+      "translation": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:153",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002153.mp3"
+    },
+    {
+      "id": 7,
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "transliteration": "Walal-akhiratu khayrun laka mina al-ula",
+      "translation": "And the Hereafter is better for you than the first life.",
+      "surah": "Ad-Duhaa",
+      "ayah": "93:4",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/093004.mp3"
+    },
+    {
+      "id": 8,
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "transliteration": "Walasawfa yu'teeka rabbuka fatarda",
+      "translation": "And your Lord is going to give you, and you will be satisfied.",
+      "surah": "Ad-Duhaa",
+      "ayah": "93:5",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/093005.mp3"
+    },
+    {
+      "id": 9,
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ",
+      "transliteration": "Walanabluwannakum bishay'in mina alkhawfi waljoo'i wanaqsin mina al-amwali wal-anfusi waththamarat",
+      "translation": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:155",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002155.mp3"
+    },
+    {
+      "id": 10,
+      "arabic": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+      "transliteration": "Allatheena itha asabat-hum museebatun qalu inna lillahi wa-inna ilayhi raji'oon",
+      "translation": "Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.'",
+      "surah": "Al-Baqarah",
+      "ayah": "2:156",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002156.mp3"
+    },
+    {
+      "id": 11,
+      "arabic": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+      "transliteration": "Wa'ibadu arrahmani allatheena yamshoona 'ala al-ardi hawnan wa-itha khatabahumu aljahiloona qaloo salaman",
+      "translation": "And the servants of the Most Merciful are those who walk upon the earth in humility, and when the ignorant address them harshly, they say words of peace.",
+      "surah": "Al-Furqan",
+      "ayah": "25:63",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/025063.mp3"
+    },
+    {
+      "id": 12,
+      "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "transliteration": "Qala rabbi innee thalamtu nafsee faghfir lee faghafara lahu innahu huwa alghafooru arraheem",
+      "translation": "He said, 'My Lord, indeed I have wronged myself, so forgive me,' and He forgave him. Indeed, He is the Forgiving, the Merciful.",
+      "surah": "Al-Qasas",
+      "ayah": "28:16",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/028016.mp3"
+    },
+    {
+      "id": 13,
+      "arabic": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "transliteration": "Fasaqa lahuma thumma tawalla ila aththilli faqala rabbi innee lima anzalta ilayya min khayrin faqeer",
+      "translation": "So he watered their flocks for them; then he went back to the shade and said, 'My Lord, indeed I am, for whatever good You would send down to me, in need.'",
+      "surah": "Al-Qasas",
+      "ayah": "28:24",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/028024.mp3"
+    },
+    {
+      "id": 14,
+      "arabic": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+      "transliteration": "Faqultu istaghfiroo rabbakum innahu kana ghaffaran",
+      "translation": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.'",
+      "surah": "Nuh",
+      "ayah": "71:10",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/071010.mp3"
+    },
+    {
+      "id": 15,
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+      "transliteration": "Rabbana la tuzigh quloobana ba'da ith hadaytana wahab lana min ladunka rahmatan",
+      "translation": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy.",
+      "surah": "Ali Imran",
+      "ayah": "3:8",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003008.mp3"
+    },
+    {
+      "id": 16,
+      "arabic": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+      "transliteration": "Wazakariyya ith nada rabbahu rabbi la tatharnee fardan wa-anta khayru alwaritheen",
+      "translation": "And mention Zechariah, when he called to his Lord, 'My Lord, do not leave me alone as heir, and You are the best of inheritors.'",
+      "surah": "Al-Anbiya",
+      "ayah": "21:89",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/021089.mp3"
+    },
+    {
+      "id": 17,
+      "arabic": "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "transliteration": "Rabbana 'alayka tawakkalna wa-ilayka anabna wa-ilayka almaseer",
+      "translation": "Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.",
+      "surah": "Al-Mumtahanah",
+      "ayah": "60:4",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/060004.mp3"
+    }
+  ],
+  "anxious": [
+    {
+      "id": 11,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+      "transliteration": "Allatheena amanoo watatma-innu quloobuhum bithikri Allahi ala bithikri Allahi tatma-innu alquloobu",
+      "translation": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured.",
+      "surah": "Ar-Ra'd",
+      "ayah": "13:28",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/013028.mp3"
+    },
+    {
+      "id": 12,
+      "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "transliteration": "La yukallifu Allahu nafsan illa wus'aha",
+      "translation": "Allah does not burden a soul beyond that it can bear.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:286",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002286.mp3"
+    },
+    {
+      "id": 13,
+      "arabic": "وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ",
+      "transliteration": "Waman yatawakkal 'ala Allahi fahuwa hasbuhu",
+      "translation": "And whoever relies upon Allah - then He is sufficient for him.",
+      "surah": "At-Talaq",
+      "ayah": "65:3",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/065003.mp3"
+    },
+    {
+      "id": 14,
+      "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا",
+      "transliteration": "Qul lan yuseebana illa ma kataba Allahu lana",
+      "translation": "Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.'",
+      "surah": "At-Tawbah",
+      "ayah": "9:51",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/009051.mp3"
+    },
+    {
+      "id": 15,
+      "arabic": "إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ",
+      "transliteration": "In yansur-kumu Allahu fala ghaliba lakum",
+      "translation": "If Allah should aid you, no one can overcome you.",
+      "surah": "Ali Imran",
+      "ayah": "3:160",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003160.mp3"
+    },
+    {
+      "id": 16,
+      "arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ ۖ وَٱصْبِرُوٓا۟",
+      "transliteration": "Wa atee'u Allaha wa rasulahu wa la tanaza'u fatafshaloo watathhaba reehukum wasbiru",
+      "translation": "And obey Allah and His Messenger, and do not dispute and thus lose courage and then your strength would depart; and be patient.",
+      "surah": "Al-Anfal",
+      "ayah": "8:46",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/008046.mp3"
+    },
+    {
+      "id": 17,
+      "arabic": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا",
+      "transliteration": "In tamsaskum hasanatun tasu'hum wa-in tusibkum sayyi-atun yafrahoo biha wa-in tasbiroo watattaqoo la yadurrukum kayduhum shay'a",
+      "translation": "If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allah, their plot will not harm you at all.",
+      "surah": "Ali Imran",
+      "ayah": "3:120",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003120.mp3"
+    },
+    {
+      "id": 18,
+      "arabic": "وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا",
+      "transliteration": "Wala yahzunka qawluhum inna al-'izzata lillahi jamee'an",
+      "translation": "And let not their speech grieve you. Indeed, honor belongs to Allah entirely.",
+      "surah": "Yunus",
+      "ayah": "10:65",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/010065.mp3"
+    },
+    {
+      "id": 19,
+      "arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "transliteration": "Watawakkal 'ala Allahi wakafa billahi wakeela",
+      "translation": "And rely upon Allah. And sufficient is Allah as Disposer of affairs.",
+      "surah": "An-Nisa",
+      "ayah": "4:81",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/004081.mp3"
+    },
+    {
+      "id": 20,
+      "arabic": "أَلَا إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "transliteration": "Ala inna awliyaa Allahi la khawfun 'alayhim wala hum yahzanoon",
+      "translation": "Unquestionably, for the allies of Allah there will be no fear concerning them, nor will they grieve.",
+      "surah": "Yunus",
+      "ayah": "10:62",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/010062.mp3"
+    },
+    {
+      "id": 21,
+      "arabic": "وَلَا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "transliteration": "Wala takhafoo wala tahzanoo wa-abshiroo biljannati allatee kuntum too'adoon",
+      "translation": "Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.",
+      "surah": "Fussilat",
+      "ayah": "41:30",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/041030.mp3"
+    },
+    {
+      "id": 22,
+      "arabic": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ",
+      "transliteration": "Inna Allaha ma'a allatheena ittaqaw wallatheena hum muhsinoon",
+      "translation": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+      "surah": "An-Nahl",
+      "ayah": "16:128",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016128.mp3"
+    },
+    {
+      "id": 23,
+      "arabic": "لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا",
+      "transliteration": "La tahzan inna Allaha ma'ana",
+      "translation": "Do not grieve; indeed Allah is with us.",
+      "surah": "At-Tawbah",
+      "ayah": "9:40",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/009040.mp3"
+    },
+    {
+      "id": 24,
+      "arabic": "وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "transliteration": "Waman yatawakkal 'ala Allahi fa-inna Allaha 'azeezun hakeem",
+      "translation": "And whoever relies upon Allah - then indeed, Allah is Exalted in Might and Wise.",
+      "surah": "Al-Anfal",
+      "ayah": "8:49",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/008049.mp3"
+    }
+  ],
+  "happy": [
+    {
+      "id": 19,
+      "arabic": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟",
+      "transliteration": "Qul bifadli Allahi wabirahma-tihi fabithalika falyafrahoo",
+      "translation": "Say, 'In the bounty of Allah and in His mercy - in that let them rejoice.'",
+      "surah": "Yunus",
+      "ayah": "10:58",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/010058.mp3"
+    },
+    {
+      "id": 20,
+      "arabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ",
+      "transliteration": "Wa-in ta'uddoo ni'mata Allahi la tuhsooha",
+      "translation": "And if you should count the favors of Allah, you could not enumerate them.",
+      "surah": "An-Nahl",
+      "ayah": "16:18",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016018.mp3"
+    },
+    {
+      "id": 21,
+      "arabic": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً",
+      "transliteration": "Man 'amila salihan min dhakarin aw ontha wahuwa mu'minun falanuhyiyannahu hayatan tayyibatan",
+      "translation": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life.",
+      "surah": "An-Nahl",
+      "ayah": "16:97",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016097.mp3"
+    },
+    {
+      "id": 22,
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "transliteration": "Fabi-ayyi ala-i rabbikuma tukaththiban",
+      "translation": "So which of the favors of your Lord would you deny?",
+      "surah": "Ar-Rahman",
+      "ayah": "55:13",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/055013.mp3"
+    },
+    {
+      "id": 23,
+      "arabic": "يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا",
+      "transliteration": "Yu'ti alhikmata man yasha'u waman yu'ta alhikmata faqad ootiya khayran katheeran",
+      "translation": "He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:269",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002269.mp3"
+    },
+    {
+      "id": 24,
+      "arabic": "فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "transliteration": "Fala ta'lamu nafsun ma ukhfiya lahum min qurrati a'yunin jaza-an bima kanu ya'maloon",
+      "translation": "And no soul knows what has been hidden for them of comfort for eyes as reward for what they used to do.",
+      "surah": "As-Sajdah",
+      "ayah": "32:17",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/032017.mp3"
+    },
+    {
+      "id": 25,
+      "arabic": "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ",
+      "transliteration": "Udkhuloo aljannata antum wa-azwajukum tuhbaroon",
+      "translation": "Enter Paradise, you and your kinds, delighted.",
+      "surah": "Az-Zukhruf",
+      "ayah": "43:70",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/043070.mp3"
+    },
+    {
+      "id": 26,
+      "arabic": "يُطَافُ عَلَيْهِم بِصِحَافٍ مِّن ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ ٱلْأَنفُسُ وَتَلَذُّ ٱلْأَعْيُنُ",
+      "transliteration": "Yutafu 'alayhim bisihafin min thahabin wa-akwabin wafiha ma tashtaheehi al-anfusu wataladhdhu al-a'yunu",
+      "translation": "Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and what delights the eyes.",
+      "surah": "Az-Zukhruf",
+      "ayah": "43:71",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/043071.mp3"
+    },
+    {
+      "id": 27,
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ",
+      "transliteration": "Inna almuttaqeena fee jannatin wanahar",
+      "translation": "Indeed, the righteous will be among gardens and rivers.",
+      "surah": "Al-Qamar",
+      "ayah": "54:54",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/054054.mp3"
+    },
+    {
+      "id": 28,
+      "arabic": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ",
+      "transliteration": "Fanqalabu bini'matin mina Allahi wafadlin lam yamsashum soo-on",
+      "translation": "So they returned with favor from Allah and bounty, no harm having touched them.",
+      "surah": "Ali Imran",
+      "ayah": "3:174",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003174.mp3"
+    },
+    {
+      "id": 29,
+      "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "transliteration": "Inna al-abrara lafee na'eem",
+      "translation": "Indeed, the righteous will be in pleasure.",
+      "surah": "Al-Infitar",
+      "ayah": "82:13",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/082013.mp3"
+    },
+    {
+      "id": 30,
+      "arabic": "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ",
+      "transliteration": "Wama alhayatu addunya illa la'ibun walahwun waladdaru al-akhiratu khayrun lillatheena yattaqoon",
+      "translation": "And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allah.",
+      "surah": "Al-An'am",
+      "ayah": "6:32",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/006032.mp3"
+    },
+    {
+      "id": 31,
+      "arabic": "لِّلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ",
+      "transliteration": "Lillatheena ahsanoo fee hathihi addunya hasanatun",
+      "translation": "For those who do good in this world is good.",
+      "surah": "An-Nahl",
+      "ayah": "16:30",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016030.mp3"
+    }
+  ],
+  "grateful": [
+    {
+      "id": 26,
+      "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "transliteration": "La-in shakartum la-azeedannakum",
+      "translation": "If you are grateful, I will surely increase you in favor.",
+      "surah": "Ibrahim",
+      "ayah": "14:7",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/014007.mp3"
+    },
+    {
+      "id": 27,
+      "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "transliteration": "Fathkurooni athkurkum washkuroo lee wala takfuroon",
+      "translation": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:152",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002152.mp3"
+    },
+    {
+      "id": 28,
+      "arabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ",
+      "transliteration": "Wa-in ta'uddoo ni'mata Allahi la tuhsooha",
+      "translation": "And if you should count the favors of Allah, you could not enumerate them.",
+      "surah": "An-Nahl",
+      "ayah": "16:18",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016018.mp3"
+    },
+    {
+      "id": 29,
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "transliteration": "Wa-amma bini'mati rabbika fahaddith",
+      "translation": "But as for the favor of your Lord, report it.",
+      "surah": "Ad-Duhaa",
+      "ayah": "93:11",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/093011.mp3"
+    },
+    {
+      "id": 30,
+      "arabic": "وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ",
+      "transliteration": "Waman shakara fa-innama yashkuru linafsihi",
+      "translation": "And whoever is grateful - his gratitude is only for the benefit of himself.",
+      "surah": "Luqman",
+      "ayah": "31:12",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/031012.mp3"
+    },
+    {
+      "id": 31,
+      "arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+      "transliteration": "Qul huwa allathee ansha-akum waja'ala lakumu assamAAa wal-absara wal-af-idata qaleelan ma tashkuroon",
+      "translation": "Say, 'It is He who has produced you and made for you hearing and vision and hearts; little are you grateful.'",
+      "surah": "Al-Mulk",
+      "ayah": "67:23",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/067023.mp3"
+    },
+    {
+      "id": 32,
+      "arabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "transliteration": "Allathee at'amahum min joo'in wa-amanahum min khawf",
+      "translation": "Who has fed them, saving them from hunger and made them safe, saving them from fear.",
+      "surah": "Quraish",
+      "ayah": "106:4",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/106004.mp3"
+    },
+    {
+      "id": 33,
+      "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ",
+      "transliteration": "Walaqad atayna luqmana alhikmata ani oshkur lillah",
+      "translation": "And We had certainly given Luqman wisdom and said, 'Be grateful to Allah.'",
+      "surah": "Luqman",
+      "ayah": "31:12",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/031012.mp3"
+    },
+    {
+      "id": 34,
+      "arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ",
+      "transliteration": "Wa-atakum min kulli ma sa-altumooh wa-in ta'uddoo ni'mata Allahi la tuhsooha",
+      "translation": "And He gave you from all you asked of Him. And if you should count the favor of Allah, you could not enumerate them.",
+      "surah": "Ibrahim",
+      "ayah": "14:34",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/014034.mp3"
+    },
+    {
+      "id": 35,
+      "arabic": "أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ",
+      "transliteration": "Alam tara anna Allaha sakhkhara lakum ma fee al-ardi",
+      "translation": "Do you not see that Allah has subjected to you whatever is on the earth?",
+      "surah": "Al-Hajj",
+      "ayah": "22:65",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/022065.mp3"
+    },
+    {
+      "id": 36,
+      "arabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ",
+      "transliteration": "Wasakhkhara lakumu allayla wannahara washshamsa walqamara wannujomu musakhkharatun bi-amrihi",
+      "translation": "And He has subjected to you the night and day and the sun and moon, and the stars are subjected by His command.",
+      "surah": "An-Nahl",
+      "ayah": "16:12",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/016012.mp3"
+    },
+    {
+      "id": 37,
+      "arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ",
+      "transliteration": "Wa-atakum min kulli ma sa-altumooh",
+      "translation": "And He gave you from all you asked of Him.",
+      "surah": "Ibrahim",
+      "ayah": "14:34",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/014034.mp3"
+    },
+    {
+      "id": 38,
+      "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+      "transliteration": "La-in shakartum la-azeedannakum wala-in kafartum inna 'athabee lashadeed",
+      "translation": "If you are grateful, I will surely increase you in favor; but if you deny, indeed, My punishment is severe.",
+      "surah": "Ibrahim",
+      "ayah": "14:7",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/014007.mp3"
+    },
+    {
+      "id": 39,
+      "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "transliteration": "Wawajadaka dallan fahada",
+      "translation": "And He found you lost and guided you.",
+      "surah": "Ad-Duhaa",
+      "ayah": "93:7",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/093007.mp3"
+    },
+    {
+      "id": 40,
+      "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "transliteration": "Wawajadaka 'a-ilan fa-aghna",
+      "translation": "And He found you poor and made you self-sufficient.",
+      "surah": "Ad-Duhaa",
+      "ayah": "93:8",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/093008.mp3"
+    }
+  ],
+  "stressed": [
+    {
+      "id": 33,
+      "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+      "transliteration": "La yukallifu Allahu nafsan illa wus'aha",
+      "translation": "Allah does not burden a soul beyond that it can bear.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:286",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002286.mp3"
+    },
+    {
+      "id": 34,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "Fa inna ma'al 'usri yusra, inna ma'al 'usri yusra",
+      "translation": "For indeed, with hardship will be ease. Indeed, with hardship will be ease.",
+      "surah": "Ash-Sharh",
+      "ayah": "94:5-6",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094005.mp3"
+    },
+    {
+      "id": 35,
+      "arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ",
+      "transliteration": "Allatheena amanoo watatma-innu quloobuhum bithikri Allahi",
+      "translation": "Those who have believed and whose hearts are assured by the remembrance of Allah.",
+      "surah": "Ar-Ra'd",
+      "ayah": "13:28",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/013028.mp3"
+    },
+    {
+      "id": 36,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ",
+      "transliteration": "Ya ayyuha allatheena amanoo ista'eenoo bissabri wassalah",
+      "translation": "O you who have believed, seek help through patience and prayer.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:153",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002153.mp3"
+    },
+    {
+      "id": 37,
+      "arabic": "وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+      "transliteration": "Waman yattaqi Allaha yaj'al lahu makhrajan",
+      "translation": "And whoever fears Allah - He will make for him a way out.",
+      "surah": "At-Talaq",
+      "ayah": "65:2",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/065002.mp3"
+    },
+    {
+      "id": 38,
+      "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+      "transliteration": "Wayarzuqhu min haythu la yahtasib",
+      "translation": "And He provides for him from sources he never imagined.",
+      "surah": "At-Talaq",
+      "ayah": "65:3",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/065003.mp3"
+    },
+    {
+      "id": 39,
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "transliteration": "Ya ayyuha allatheena amanoo isbiroo wasabiroo warabitoo wattaqoo Allaha la'allakum tuflihoon",
+      "translation": "O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.",
+      "surah": "Ali Imran",
+      "ayah": "3:200",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003200.mp3"
+    },
+    {
+      "id": 40,
+      "arabic": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+      "transliteration": "Ahasiba annasu an yutrakoo an yaqooloo amanna wahum la yuftanoon",
+      "translation": "Do the people think that they will be left to say, 'We believe' and they will not be tried?",
+      "surah": "Al-Ankabut",
+      "ayah": "29:2",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/029002.mp3"
+    },
+    {
+      "id": 41,
+      "arabic": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟",
+      "transliteration": "Walaqad fatanna allatheena min qablihim falaya'lamanna Allahu allatheena sadaqoo",
+      "translation": "But We have certainly tried those before them, and Allah will surely make evident those who are truthful.",
+      "surah": "Al-Ankabut",
+      "ayah": "29:3",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/029003.mp3"
+    },
+    {
+      "id": 42,
+      "arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "transliteration": "Fasbir sabran jameela",
+      "translation": "So be patient with gracious patience.",
+      "surah": "Al-Ma'arij",
+      "ayah": "70:5",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/070005.mp3"
+    },
+    {
+      "id": 43,
+      "arabic": "وَٱصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "transliteration": "Wasbir 'ala ma asabaka inna thalika min 'azmi al-omoor",
+      "translation": "And be patient over what befalls you. Indeed, all that is of the matters requiring determination.",
+      "surah": "Luqman",
+      "ayah": "31:17",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/031017.mp3"
+    },
+    {
+      "id": 44,
+      "arabic": "إِنَّمَا يُوَفَّى ٱلصَّـٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "transliteration": "Innama yuwaffa assabiroon ajrahum bighayri hisab",
+      "translation": "Indeed, the patient will be given their reward without account.",
+      "surah": "Az-Zumar",
+      "ayah": "39:10",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/039010.mp3"
+    },
+    {
+      "id": 45,
+      "arabic": "وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Wabashiri assabireen",
+      "translation": "And give good tidings to the patient.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:155",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002155.mp3"
+    },
+    {
+      "id": 46,
+      "arabic": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ",
+      "transliteration": "Wasta'eenoo bissabri wassalati wa-innaha lakabeeratun illa 'ala alkhashi'een",
+      "translation": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive to Allah.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:45",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002045.mp3"
+    },
+    {
+      "id": 47,
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ",
+      "transliteration": "Walanabluwannakum hatta na'lama almujahideena minkum wassabireen",
+      "translation": "And We will surely test you until We make evident those who strive among you and the patient.",
+      "surah": "Muhammad",
+      "ayah": "47:31",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/047031.mp3"
+    },
+    {
+      "id": 48,
+      "arabic": "ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟",
+      "transliteration": "Isbiroo wasabiroo warabitoo",
+      "translation": "Persevere and endure and remain stationed.",
+      "surah": "Ali Imran",
+      "ayah": "3:200",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003200.mp3"
+    }
+  ],
+  "hopeful": [
+    {
+      "id": 41,
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "Fa inna ma'al 'usri yusra",
+      "translation": "For indeed, with hardship will be ease.",
+      "surah": "Ash-Sharh",
+      "ayah": "94:5",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094005.mp3"
+    },
+    {
+      "id": 42,
+      "arabic": "وَلَا تَيْأَسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَيْأَسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
+      "transliteration": "Wa la tay'asoo min rawhi Allahi innahu la yay'asu min rawhi Allahi illa alqawmu alkafiroon",
+      "translation": "And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.",
+      "surah": "Yusuf",
+      "ayah": "12:87",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/012087.mp3"
+    },
+    {
+      "id": 43,
+      "arabic": "قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ",
+      "transliteration": "Qul ya 'ibadiya allatheena asrafu 'ala anfusihim la taqnatu min rahmati Allahi",
+      "translation": "Say, O My servants who have transgressed against themselves by sinning, do not despair of the mercy of Allah.",
+      "surah": "Az-Zumar",
+      "ayah": "39:53",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/039053.mp3"
+    },
+    {
+      "id": 44,
+      "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ",
+      "transliteration": "Wa-itha sa-alaka 'ibadee 'annee fa-innee qareeb ujeeb da'wata adda'i itha da'ani",
+      "translation": "And when My servants ask you concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.",
+      "surah": "Al-Baqarah",
+      "ayah": "2:186",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002186.mp3"
+    },
+    {
+      "id": 45,
+      "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ",
+      "transliteration": "Waqala rabbukumu od'oonee astajib lakum",
+      "translation": "And your Lord says, 'Call upon Me; I will respond to you.'",
+      "surah": "Ghafir",
+      "ayah": "40:60",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/040060.mp3"
+    },
+    {
+      "id": 46,
+      "arabic": "إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "transliteration": "Inna Allaha la yudee'u ajra almuhsineen",
+      "translation": "Indeed, Allah does not allow to be lost the reward of those who do good.",
+      "surah": "Hud",
+      "ayah": "11:115",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/011115.mp3"
+    },
+    {
+      "id": 47,
+      "arabic": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+      "transliteration": "Wastaghfiroo rabbakum thumma tooboo ilayhi inna rabbee raheemun wadood",
+      "translation": "And ask forgiveness of your Lord and then repent to Him. Indeed, my Lord is Merciful and Affectionate.",
+      "surah": "Hud",
+      "ayah": "11:90",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/011090.mp3"
+    },
+    {
+      "id": 48,
+      "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ",
+      "transliteration": "Fasbir inna wa'da Allahi haqq",
+      "translation": "So be patient. Indeed, the promise of Allah is truth.",
+      "surah": "Ar-Rum",
+      "ayah": "30:60",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/030060.mp3"
+    },
+    {
+      "id": 49,
+      "arabic": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ",
+      "transliteration": "Ma asaba min museebatin illa bi-ithni Allahi waman yu'min billahi yahdi qalbahu",
+      "translation": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart.",
+      "surah": "At-Taghabun",
+      "ayah": "64:11",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/064011.mp3"
+    },
+    {
+      "id": 50,
+      "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم",
+      "transliteration": "Am hasibtum an tadkhuloo aljannata walamma ya'tikum mathalu allatheena khalaw min qablikum",
+      "translation": "Or do you think that you will enter Paradise while such trial has not yet come to you as came to those who passed on before you?",
+      "surah": "Al-Baqarah",
+      "ayah": "2:214",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002214.mp3"
+    },
+    {
+      "id": 51,
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "Inna ma'a al'usri yusra",
+      "translation": "Indeed, with hardship will be ease.",
+      "surah": "Ash-Sharh",
+      "ayah": "94:6",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/094006.mp3"
+    },
+    {
+      "id": 52,
+      "arabic": "وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟",
+      "transliteration": "Wahuwa allathee yunazzilu alghaytha min ba'di ma qanatoo",
+      "translation": "And it is He who sends down the rain after they had despaired and spreads His mercy.",
+      "surah": "Ash-Shuraa",
+      "ayah": "42:28",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/042028.mp3"
+    },
+    {
+      "id": 53,
+      "arabic": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ",
+      "transliteration": "Qul ya 'ibadi allatheena amanoo ittaqoo rabbakum lillatheena ahsanoo fee hathihi addunya hasanatun",
+      "translation": "Say, 'O My servants who have believed, fear your Lord. For those who do good in this world is good.'",
+      "surah": "Az-Zumar",
+      "ayah": "39:10",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/039010.mp3"
+    },
+    {
+      "id": 54,
+      "arabic": "إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "transliteration": "Inna Allaha yaghfiru aththunooba jamee'an innahu huwa alghafooru arraheem",
+      "translation": "Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.",
+      "surah": "Az-Zumar",
+      "ayah": "39:53",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/039053.mp3"
+    },
+    {
+      "id": 55,
+      "arabic": "رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "transliteration": "Rabbana innana amanna faghfir lana thunoobana waqina 'athaba annar",
+      "translation": "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire.",
+      "surah": "Ali Imran",
+      "ayah": "3:16",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003016.mp3"
+    },
+    {
+      "id": 56,
+      "arabic": "وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ",
+      "transliteration": "Warahmatee wasi'at kulla shay'",
+      "translation": "But My mercy encompasses all things.",
+      "surah": "Al-A'raf",
+      "ayah": "7:156",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/007156.mp3"
+    },
+    {
+      "id": 57,
+      "arabic": "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ",
+      "transliteration": "Waman ya'mal mina assalihati min thakarin aw ontha wahuwa mu'minun fa-ola-ika yadkhuloona aljannata",
+      "translation": "And whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise.",
+      "surah": "An-Nisa",
+      "ayah": "4:124",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/004124.mp3"
+    },
+    {
+      "id": 58,
+      "arabic": "إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "transliteration": "Inna Allaha la yukhlifu almee'ad",
+      "translation": "Indeed, Allah does not fail in His promise.",
+      "surah": "Ali Imran",
+      "ayah": "3:9",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/003009.mp3"
+    },
+    {
+      "id": 59,
+      "arabic": "وَٱللَّهُ خَيْرٌ وَأَبْقَىٰ",
+      "transliteration": "Wallahu khayrun wa-abqa",
+      "translation": "But Allah is best and more enduring.",
+      "surah": "Ta-Ha",
+      "ayah": "20:73",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/020073.mp3"
+    },
+    {
+      "id": 60,
+      "arabic": "فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَـٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "transliteration": "Fa-inna Allaha huwa mawlahu wajibreelu wasalihu almu'mineena walmala-ikatu ba'da thalika thaheer",
+      "translation": "Then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are his assistants.",
+      "surah": "At-Tahrim",
+      "ayah": "66:4",
+      "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/066004.mp3"
+    }
+  ]
+}
