@@ -1,5 +1,10 @@
 import { Link } from 'react-router-dom';
 import { Sparkles } from 'lucide-react';
+import icon1 from '../assets/icons/book.png';
+import icon2 from '../assets/icons/hands.png';
+import icon3 from '../assets/icons/heart.png';
+import icon4 from '../assets/icons/star.png';
+import icon5 from '../assets/icons/scroll.png';
 
 
 function HomePage() {
